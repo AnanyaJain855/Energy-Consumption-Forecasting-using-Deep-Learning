@@ -59,32 +59,35 @@ To improve energy management and grid stability by:
 ![LSTM Training Loss](https://github.com/user-attachments/assets/1912dfbe-9a67-401b-911c-a369adf6a6b3)
 
 #### Actual vs Predicted Energy Consumption
-![LSTM Actual vs Predicted](https://UPLOAD_LSTM_ACTUAL_VS_PREDICTED_IMAGE_URL_HERE)
+![LSTM Actual vs Predicted](https://github.com/user-attachments/assets/4f4df85b-d2b6-4eea-85df-11e4c6d563fe)
 
 #### Forecast for 2025–2035
-![LSTM Forecast](https://UPLOAD_LSTM_FORECAST_IMAGE_URL_HERE)
+![LSTM Forecast](https://github.com/user-attachments/assets/7dbae833-3923-4c51-bbe9-0c5e8cb57bb3)
+
 
 ### BiLSTM Model
 
 #### Training and Validation Loss
-![BiLSTM Training Loss](https://UPLOAD_BILSTM_TRAINING_LOSS_IMAGE_URL_HERE)
+![BiLSTM Training Loss](https://github.com/user-attachments/assets/a57e1c40-9083-48f2-807c-5e704c3bbcc5)
 
 #### Actual vs Predicted Energy Consumption
-![BiLSTM Actual vs Predicted](https://UPLOAD_BILSTM_ACTUAL_VS_PREDICTED_IMAGE_URL_HERE)
+![BiLSTM Actual vs Predicted](https://github.com/user-attachments/assets/910ef8af-0889-4063-a739-2a0f9b5a5e4b)
 
 #### Forecast for 2025–2035
-![BiLSTM Forecast](https://UPLOAD_BILSTM_FORECAST_IMAGE_URL_HERE)
+![BiLSTM Forecast](https://github.com/user-attachments/assets/7b22b86a-6ede-466b-b401-5b5c4d621b9c)
+
 
 ### Transformer Model
 
 #### Training and Validation Loss
-![Transformer Training Loss](https://UPLOAD_TRANSFORMER_TRAINING_LOSS_IMAGE_URL_HERE)
+![Transformer Training Loss](https://github.com/user-attachments/assets/36fbf8c0-3733-4f15-9ae1-63cac718aa59)
 
 #### Actual vs Predicted Energy Consumption
-![Transformer Actual vs Predicted](https://UPLOAD_TRANSFORMER_ACTUAL_VS_PREDICTED_IMAGE_URL_HERE)
+![Transformer Actual vs Predicted](https://github.com/user-attachments/assets/da8f59a7-a66c-4e8d-9b59-c8252c1471ed)
 
 #### Forecast for 2025–2035
-![Transformer Forecast](https://UPLOAD_TRANSFORMER_FORECAST_IMAGE_URL_HERE)
+![Transformer Forecast](https://github.com/user-attachments/assets/b9d306c3-627c-4387-8584-76749a9aa063)
+
 
 ## 🔎 Notes
 
